@@ -1,0 +1,3 @@
+[submodule "git-component1"]
+	path = git-component1
+	url = https://github.com/emanaev/git-component1.git
